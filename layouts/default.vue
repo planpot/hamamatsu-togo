@@ -20,8 +20,8 @@
             </p>
           </v-col>
           <v-col cols="12">
-            <a href="http://www.pref.kanagawa.jp/osirase/1369/" target="_blank"
-              >神奈川県：新型コロナウイルス感染症対策サイト</a
+            <a href="https://stopcovid19-hamamatsu.netlify.com/" target="_blank"
+              >浜松市：新型コロナウイルス感染症対策サイト</a
             >
           </v-col>
           <v-col cols="12">

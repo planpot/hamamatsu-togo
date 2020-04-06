@@ -21,37 +21,37 @@ export default {
     htmlAttrs: {
       prefix: 'og: http://ogp.me/ns#',
     },
-    titleTemplate: '%s - KAMAKURA TO-GO',
-    title: 'KAMAKURA TO-GO',
+    titleTemplate: '%s - HAMAMATSU TO-GO',
+    title: 'HAMAMATSU TO-GO',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: '鎌倉地域でテイクアウト対応しているお店のまとめです。',
+        content: '浜松市および近郊地域でテイクアウト対応しているお店のまとめです。',
       },
       {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: 'KAMAKURA TO-GO',
+        content: 'HAMAMATSU TO-GO',
       },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://kamakura-togo.firebaseapp.com/',
+        content: 'https://hamamatsu-togo.netlify.com/',
       },
-      { hid: 'og:title', property: 'og:title', content: 'KAMAKURA TO-GO' },
+      { hid: 'og:title', property: 'og:title', content: 'HAMAMATSU TO-GO' },
       {
         hid: 'og:description',
         property: 'og:description',
-        content: '鎌倉地域でテイクアウト対応しているお店のまとめです。',
+        content: '浜松市および近郊地域でテイクアウト対応しているお店のまとめです。',
       },
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://kamakura-togo.firebaseapp.com/ogp.jpg',
+        content: 'https://hamamatsu-togo.netlify.com/ogp.jpg',
       },
       {
         hid: 'msapplication-TileColoe',
