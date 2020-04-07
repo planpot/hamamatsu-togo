@@ -42,6 +42,11 @@
       </v-container>
       <img src="~/assets/images/togotaco.png" class="mark" />
       <span class="copy">We pray for peaceful days to return quickly. </span>
+      <span class="copy">
+        Thank you,
+        <a href="https://kamakura-togo.firebaseapp.com/">KAMAKURA TO-GO</a>. Our
+        website forked from them.
+      </span>
     </footer>
   </v-app>
 </template>
