@@ -21,20 +21,21 @@ export default {
     htmlAttrs: {
       prefix: 'og: http://ogp.me/ns#',
     },
-    titleTemplate: '%s - HAMAMATSU TO-GO',
-    title: 'HAMAMATSU TO-GO',
+    titleTemplate: '%s - Hamamatsu To Go',
+    title: 'Hamamatsu To Go',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: '浜松市および近郊地域でテイクアウト対応しているお店のまとめです。',
+        content:
+          '浜松市および近郊地域でテイクアウト対応しているお店のまとめです。',
       },
       {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: 'HAMAMATSU TO-GO',
+        content: 'Hamamatsu To Go',
       },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
@@ -42,11 +43,12 @@ export default {
         property: 'og:url',
         content: 'https://hamamatsu-togo.netlify.com/',
       },
-      { hid: 'og:title', property: 'og:title', content: 'HAMAMATSU TO-GO' },
+      { hid: 'og:title', property: 'og:title', content: 'Hamamatsu To Go' },
       {
         hid: 'og:description',
         property: 'og:description',
-        content: '浜松市および近郊地域でテイクアウト対応しているお店のまとめです。',
+        content:
+          '浜松市および近郊地域でテイクアウト対応しているお店のまとめです。',
       },
       {
         hid: 'og:image',
@@ -54,13 +56,18 @@ export default {
         content: 'https://hamamatsu-togo.netlify.com/ogp.jpg',
       },
       {
-        hid: 'msapplication-TileColoe',
-        property: 'msapplication-TileColoe',
-        content: '#da532',
+        hid: 'twitter:card',
+        property: 'twitter:card',
+        content: 'summary_large_image',
       },
       {
-        hid: 'theme-coloe',
-        property: 'theme-coloe',
+        hid: 'msapplication-TileColor',
+        property: 'msapplication-TileColor',
+        content: '#b91d47',
+      },
+      {
+        hid: 'theme-color',
+        property: 'theme-color',
         content: '#ffffff',
       },
     ],
