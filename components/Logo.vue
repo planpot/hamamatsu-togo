@@ -1,15 +1,17 @@
 <template>
-  <img src="~/assets/images/logo.svg" class="logo" />
+  <img src="~/assets/images/logo-hamamatsu-togo.png" class="logo" />
 </template>
 
 <style lang="scss">
 .logo {
-  width: 600px;
+  width: 520px;
   display: block;
   margin: 0 auto;
-  .xs &,
+  .xs & {
+    width: calc(100% - 4rem);
+  }
   .sm & {
-    width: 100%;
+    width: calc(100% - 8rem);
   }
 }
 </style>

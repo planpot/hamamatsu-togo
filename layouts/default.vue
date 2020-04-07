@@ -40,7 +40,7 @@
           </v-col>
         </v-row>
       </v-container>
-      <img src="~/assets/images/mark.svg" class="mark" />
+      <img src="~/assets/images/togotaco.png" class="mark" />
       <span class="copy">We pray for peaceful days to return quickly. </span>
     </footer>
   </v-app>
@@ -80,11 +80,11 @@ export default {
 
 <style lang="scss">
 .attention {
-  background: #9bcad0;
+  background: #b91d47;
   text-align: center;
   font-size: 12px;
   padding: 5px;
-  color: #333;
+  color: #fff;
 }
 .gheader {
   padding: 30px;
